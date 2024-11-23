@@ -1,0 +1,19 @@
+[project]
+name = "simple-flow-matching"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "diffrax>=0.6.0",
+    "dyn-plot>=0.1.1",
+    "flax>=0.10.2",
+    "ipykernel>=6.29.5",
+    "jax>=0.4.35",
+    "matplotlib>=3.9.2",
+    "pip>=24.3.1",
+    "scikit-learn>=1.5.2",
+    "stop-iter>=0.2.4",
+    "tqdm>=4.67.0",
+    "treescope>=0.1.6",
+]
